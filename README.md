@@ -1,25 +1,27 @@
 # Pdf-Merger-Tool
-🚀 PDF Merger Web App
-Merge PDFs in seconds — right from your browser.
+📄 PDF Merger Web App
+Merge PDFs instantly — clean UI, smooth experience, zero hassle.
 
-This is a sleek and modern PDF merging tool built with a focus on speed, simplicity, and user experience. The frontend is crafted with HTML5, CSS3, and Bootstrap 4, delivering a responsive and intuitive interface that works beautifully across devices.
+This modern web app lets you upload and merge multiple PDF files right from your browser. No signups, no bloated tools — just a fast, lightweight solution that gets the job done beautifully.
 
-Under the hood, the backend runs on Node.js with Express.js, handling file uploads, processing PDFs using the powerful pdf-merger-js library, and efficiently saving the merged output in the public directory for easy access.
+✨ Built with:
 
-Whether you're a student compiling notes, a professional organizing reports, or anyone dealing with document workflows — this tool makes merging PDFs fast, smooth, and hassle-free. All processing happens seamlessly on the server, and the final result is just a click away.
+Frontend: HTML5, CSS3, and Bootstrap for a sleek, responsive design
 
-Frontend:
+Backend: Node.js + Express.js for powerful file handling and merging
 
-Clean UI built with Bootstrap
+PDF Engine: pdf-merger-js to combine PDFs effortlessly
 
-Mobile-friendly, fast, and responsive
+🧠 How it works:
+Upload your PDF files → Hit merge → Get your final file instantly
+The merged PDF is saved in the public folder, ready to download or share.
 
-Easy drag-and-drop or click-to-upload interface
+🚀 Why you'll love it:
 
-Backend:
+Clean and modern UI
 
-Built with Node.js + Express.js
+Fast and reliable performance
 
-Handles multiple PDF uploads and merges them server-side
+Works on any device
 
-Final merged file is stored in a public directory and ready for download
+No unnecessary steps — just merge and go!
